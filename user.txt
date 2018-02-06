@@ -1,0 +1,50 @@
+dwnews.com/*/ads/*
+dwnews.com##div.public_right
+dwnews.com##div.big12-gg
+dwnews.com##div.gg1
+dwnews.com##div.m-banner.gg-tong
+dwnews.com##div.dzbbox.mt_10
+dwnews.com##div.dw_bar
+dwnews.com##.alert-flyout-wrap
+dwnews.com##.caito-heng
+www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http://"]:not([href*=".wenxuecity."])
+wenxuecity.com##.col > ul:not([id]) > li > a[href^="https://"]:not([href*=".wenxuecity."])
+wenxuecity.com##.otherposts
+wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
+wenxuecity.com##a[href^="http://oascentral.wenxuecity.com/"]
+cas.criteo.com/delivery/ajs.php*
+wenxuecity.com##div#topnav1
+wenxuecity.com##div.wrapper
+wenxuecity.com##div.banners
+wenxuecity.com##div#leftside
+wenxuecity.com##div#rightside
+wenxuecity.com##div.classified_right
+wenxuecity.com##div.classified_left
+wenxuecity.com##div#hot_discuss
+wenxuecity.com##div.publist_list.index_publish
+wenxuecity.com##[class*="adsby"]
+shangshu.cc##div[id^="_"]
+shangshu.cc##div[class^="nu71t_"]
+shangshu.cc##div[style="height: 144px;"]
+shangshu.cc##div[style="height: 216px;"]
+shangshu.cc##iframe[style="display: none;"]
+aisex.com##div.fr.tar
+ggdown.com##img#iiIk_tfta236ufq_soyf1m8wcanh_frTup
+ggdown.com##div#iIk_tfta236ufq_soyf1m8wcanh_frXe
+ggdown.com$s@display: block;@display: none;@
+a7s7.com##div#right2ad
+a7s7.com##div#left2ad
+a7s7.com##div#BD3.bAd
+a7s7.com##div#big2Ad.pre-roll2-ad.screenAd
+a7s7.com##div.innerAd
+a7s7.com##div.logo-wrapper
+ig32.com##div#right2ad
+ig32.com##div#left2ad
+ig32.com##div#BD3.bAd
+ig32.com##div#big2Ad.pre-roll2-ad.screenAd
+ig32.com##div.innerAd
+ig32.com##div.logo-wrapper
+youtube.com##div.companion
+youtube.com##div#image-container
+youtube.com##div.adDisplay.extra-padding
+dwnews.com##div.fx-fixed
